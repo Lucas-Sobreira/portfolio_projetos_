@@ -12,7 +12,8 @@ Além dos meus projetos, você se depará com:
 - Experiências profissionais;
 - Contatos; 
 
-Os projetos estão dividos entre as seguintes vertentes: 
+
+Apesar de ser Engenheiro de Dados, você encontrará projetos de: 
 - Engenharia de Dados e Big Data;
 - Ciência de Dados;
 - Análise de Dados;
