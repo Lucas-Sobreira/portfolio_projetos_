@@ -1,7 +1,7 @@
 # <ins>Portfólio de Projetos</ins>
 
 <div align="center">
-<img src="https://github.com/Lucas-Sobreira/portfolio_projetos/blob/main/my_page/capa_github.jpg" width="700" height="400"/>
+<img src="./my_page/linkedin.png" width="400" height="400"/>
 </div>
 
 <br>
